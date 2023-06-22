@@ -1,0 +1,64 @@
+[{
+         
+         "name":"iphone x",
+         "company":"apple",
+         "price":6000000,
+         "featured":true
+         
+         
+        },
+
+         {
+          
+           "name":"samsung s20",
+           "company":"samsung",
+            "price":5000000
+           
+          },
+          {
+           
+            "name":"Dell Series",
+            "company":"dell",
+            "price":600000
+           
+            },
+       
+           {
+          
+            "name":"Mac Pc",
+           "company":"apple",
+            "price":4000099
+          
+           },
+           {
+           
+            "name":"Macbook Pro",
+            "company":"apple",
+             "price":42999
+           
+           },
+         
+          
+         {
+          
+          "name":"Iwatch",
+          "price":39999,
+          "company":"apple"
+           
+         },
+         {
+          
+          "name":"user need",
+           "company":"apple",
+           "price":300099
+           
+         },
+         
+          {
+           
+          "name":"galaxy w20",
+          "price":311999,
+          "company":"samsung",
+          "featured":true
+          }
+      ]
