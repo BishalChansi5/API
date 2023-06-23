@@ -14,6 +14,16 @@ const productSchema = new mongoose.Schema({
     type: Boolean,
     default: false,
  },
+ image:{
+    type:String,
+    required: true,
+},
+category:{
+    type: String,
+    enum:{
+        values:["beverage","grocery","alcohol","Eggs and meat","vegetables and fruits"],
+        message: `{VALUE} is not supported`,
+    },
 rating:{
     type:Number,
     default: 4.9,
@@ -22,16 +32,8 @@ createdAt:{
     type: Date,
     default: Date.now(),
 },
-category:{
-    type: String,
-    enum:{
-        values:["beverage","grocery","alcohol","Eggs and meat","vegetables and fruits"],
-        message: `{VALUE} is not supported`,
-    },
-    image:{
-        type:String,
-        required: true,
-    }
+
+
 }
 
 });

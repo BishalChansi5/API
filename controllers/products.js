@@ -3,11 +3,11 @@ const Product = require("../models/product")
 
 const getAllProducts = async (req,res) =>{
 
-     const {company,name,featured,sort,select} = req.query
+     const {category,name,featured,sort,select} = req.query
     const queryObject ={};
 
-    if(company){
-        queryObject.company = company;
+    if(category){
+        queryObject.category = category;
     }
 
     if(featured){
