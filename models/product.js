@@ -22,12 +22,16 @@ createdAt:{
     type: Date,
     default: Date.now(),
 },
-company:{
+category:{
     type: String,
     enum:{
-        values:["apple","samsung","dell","mi"],
+        values:["beverage","grocery","alcohol","Eggs and meat","vegetables and fruits"],
         message: `{VALUE} is not supported`,
     },
+    image:{
+        type:String,
+        required: true,
+    }
 }
 
 });

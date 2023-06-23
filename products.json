@@ -1,64 +1,72 @@
 [{
          
-         "name":"iphone x",
-         "company":"apple",
-         "price":6000000,
-         "featured":true
+         "name":"Oroe",
+         "category":"grocery",
+         "price":650,
+         "featured":true,
+         "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.com%2Fphotos%2Foreo&psig=AOvVaw0_NHK1wmT7n20kmT0eCPsM&ust=1687595076685000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCLqNv72P8CFQAAAAAdAAAAABAE"
          
          
         },
 
          {
           
-           "name":"samsung s20",
-           "company":"samsung",
-            "price":5000000
+           "name":"Wai Wai",
+           "category":"grocery",
+            "price":550,
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.primeemarket.com%2Fproducts%2Fwai-wai-noodles-chicken-box&psig=AOvVaw0-63uvJdSgZOESQX8jjz2d&ust=1687595140563000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDhs_v72P8CFQAAAAAdAAAAABAE"
            
           },
           {
            
-            "name":"Dell Series",
-            "company":"dell",
-            "price":600000
+            "name":"Kimchi",
+            "category":"grocery",
+            "price":850,
+            "image":"https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.bibigo.com%2Fen%2Fat-home-kimchi&psig=AOvVaw3MvvldoHhiYtVx0CADatwh&ust=1687595185578000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDxkJH82P8CFQAAAAAdAAAAABAE"
            
             },
        
            {
           
-            "name":"Mac Pc",
-           "company":"apple",
-            "price":4000099
+            "name":"Soft Drinks",
+           "category":"beverage",
+            "price":2250,
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fstock-photo%2Fsoft-drink-brands.html&psig=AOvVaw0wNaoQwfkbUgTLbFm3U8bi&ust=1687595226180000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJi2naL82P8CFQAAAAAdAAAAABAE"
           
            },
            {
            
-            "name":"Macbook Pro",
-            "company":"apple",
-             "price":42999
+            "name":"Chicken Sausage",
+            "category":"Eggs and meat",
+             "price":350,
+             "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fapplegate.com%2Fproducts%2Forganic-chicken-apple-sausage&psig=AOvVaw1pjjIfNM9qjIV_ZxNwoodc&ust=1687595265207000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKD2srT82P8CFQAAAAAdAAAAABAE"
            
            },
          
           
          {
           
-          "name":"Iwatch",
-          "price":39999,
-          "company":"apple"
+          "name":"Strawberry",
+          "price":950,
+          "category":"vegetables and fruits",
+          "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.samimakolet.com%2Fdriscolls-strawberries-16-oz-package-715756200023-14985%2F&psig=AOvVaw0o4MPL9gE3Ep0kSsSFDteM&ust=1687595302368000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiwtcb82P8CFQAAAAAdAAAAABAE"
            
          },
          {
           
-          "name":"user need",
-           "company":"apple",
-           "price":300099
+          "name":"Beer",
+           "category":"alcohol",
+           "price":3300,
+           "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Ftuborg-beer-bottles-seen-in-a-store-shelf-image340024315.html&psig=AOvVaw1u5KhcwLMOjtND4DaHtLt8&ust=1687595344946000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOi-j9_82P8CFQAAAAAdAAAAABAE"
            
          },
          
           {
            
-          "name":"galaxy w20",
+          "name":"Cotton candy Ice Cream",
           "price":311999,
-          "company":"samsung",
-          "featured":true
+          "category":"grocery",
+          "featured":true,
+          "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.baskinrobbinsathome.com%2Fice-cream%2Fcotton-candy&psig=AOvVaw1rXymNOlQARYkYZ1l26H7-&ust=1687595392813000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCID46vH82P8CFQAAAAAdAAAAABAE"
           }
       ]
