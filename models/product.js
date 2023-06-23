@@ -18,6 +18,10 @@ const productSchema = new mongoose.Schema({
     type:String,
     required: true,
 },
+description:{
+    type:String,
+    required: true,
+},
 category:{
     type: String,
     enum:{
@@ -39,4 +43,4 @@ createdAt:{
 });
 
 
-module.exports = mongoose.model("Product",productSchema);
+module.exports = mongoose.model("Products",productSchema);
